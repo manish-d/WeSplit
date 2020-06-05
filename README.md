@@ -2,4 +2,4 @@
 WeSplit is an App to Split a Bill with Tip calculator
 
 
-              ![](weSplit.gif)
+![](weSplit.gif)
